@@ -1,7 +1,7 @@
 # FaceBook Massenger 騷擾器
 
 這是為了騷擾朋友所做的簡易side project
-如果僅為了使用，並不參與開發請至:  [下載](https://github.com/ManYo945/fb_massenge_harass/wiki#%E5%B0%88%E6%A1%88exe%E5%9F%B7%E8%A1%8C%E6%AA%94)
+如果僅為了使用，並不參與開發請至:  [下載](https://github.com/ManYo945/fb_massenge_harass/releases/tag/%E4%BD%BF%E7%94%A8%E8%80%85.exe%E5%9F%B7%E8%A1%8C%E6%AA%94)
 
 ## Install
 
